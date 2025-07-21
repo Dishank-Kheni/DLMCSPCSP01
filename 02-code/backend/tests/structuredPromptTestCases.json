@@ -1,0 +1,144 @@
+[
+  {
+    "category": "Dietary – Vegan",
+    "input": "I want something vegan.",
+    "required_tags": [
+      "vegan"
+    ]
+  },
+  {
+    "category": "Dietary – Gluten-Free",
+    "input": "Anything gluten-free?",
+    "required_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "category": "Dietary – Low Sugar",
+    "input": "Do you have a low-sugar dessert?",
+    "required_tags": [
+      "low-sugar",
+      "dessert"
+    ]
+  },
+  {
+    "category": "Dietary – High Protein",
+    "input": "Suggest something high in protein.",
+    "required_tags": [
+      "high-protein"
+    ]
+  },
+  {
+    "category": "Meal Time – Breakfast",
+    "input": "What’s good for breakfast?",
+    "required_tags": [
+      "breakfast"
+    ]
+  },
+  {
+    "category": "Meal Time – Lunch",
+    "input": "Recommend a good lunch option.",
+    "required_tags": [
+      "lunch"
+    ]
+  },
+  {
+    "category": "Meal Time – Dinner",
+    "input": "What should I eat for dinner?",
+    "required_tags": [
+      "dinner"
+    ]
+  },
+  {
+    "category": "Meal Time – Snack",
+    "input": "What’s a light snack?",
+    "required_tags": [
+      "light",
+      "snack"
+    ]
+  },
+  {
+    "category": "Mood – Comfort Food",
+    "input": "I need some comfort food.",
+    "required_tags": [
+      "comfort"
+    ]
+  },
+  {
+    "category": "Mood – Post Workout",
+    "input": "I just exercised. Any healthy picks?",
+    "required_tags": [
+      "post-workout"
+    ]
+  },
+  {
+    "category": "Mood – Rainy Day",
+    "input": "Something cozy for a rainy day?",
+    "required_tags": [
+      "cozy"
+    ]
+  },
+  {
+    "category": "Upsell – Add Drink",
+    "input": "What drink goes with that?",
+    "required_tags": [
+      "drink"
+    ]
+  },
+  {
+    "category": "Upsell – Add Dessert",
+    "input": "Any dessert to go with it?",
+    "required_tags": [
+      "dessert"
+    ]
+  },
+  {
+    "category": "Surprise / Random",
+    "input": "Surprise me!",
+    "required_tags": []
+  },
+  {
+    "category": "Popular Items",
+    "input": "What’s your most popular item?",
+    "required_tags": []
+  },
+  {
+    "category": "Chef Recommendation",
+    "input": "What does the chef recommend?",
+    "required_tags": []
+  },
+  {
+    "category": "Combined – Vegan + Spicy",
+    "input": "Do you have anything spicy and vegan?",
+    "required_tags": [
+      "spicy",
+      "vegan"
+    ]
+  },
+  {
+    "category": "Combined – Gluten-Free Lunch",
+    "input": "What’s a good gluten-free lunch?",
+    "required_tags": [
+      "gluten-free",
+      "lunch"
+    ]
+  },
+  {
+    "category": "Combined – Light + High Protein",
+    "input": "I want something light and high in protein.",
+    "required_tags": [
+      "light",
+      "high-protein"
+    ]
+  },
+  {
+    "category": "Clarification Needed",
+    "input": "I want something good.",
+    "required_tags": []
+  },
+  {
+    "category": "Invalid Dish Test",
+    "input": "Can I have sushi?",
+    "required_tags": []
+  }
+]
