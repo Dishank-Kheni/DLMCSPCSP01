@@ -85,5 +85,5 @@ Once both the backend and frontend are running, you can access the application i
 ## Screenshots
 Here are some screenshots demonstrating the application:
 
-![Chat Interface Demo](./assets/images/demo2.png)
+![Chat Interface Demo](./assets/images/demo2.jpeg)
 *The chat interface showing a sample conversation with the restaurant assistant*
