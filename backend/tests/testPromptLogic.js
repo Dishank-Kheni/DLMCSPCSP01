@@ -10,7 +10,7 @@ const testCases = JSON.parse(
 // Setup OpenAI
 const configuration = new Configuration({
   apiKey:
-    "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",
+    "Your-OpenAI-API-Key-Here", // Replace with your actual OpenAI API key
 });
 const openai = new OpenAIApi(configuration);
 
