@@ -35,9 +35,6 @@ The frontend is built using React. It provides a user-friendly interface for int
 - **public/favicon.ico**: Favicon for the frontend application.
 - **package.json**: Lists dependencies and scripts for the frontend application.
 
-### Shared
-- **shared/menuData.js**: Exports shared menu data or functions for both frontend and backend.
-
 ### Tests
 - **tests/testPromptLogic.js**: Tests for the prompt logic.
 - **tests/structuredPromptTestCases.json**: Contains structured test cases for validating prompt logic.
