@@ -45,7 +45,7 @@ The frontend is built using React. It provides a user-friendly interface for int
 ## Setup Instructions
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Dishank-Kheni/DLMCSPCSP01.git
    cd restaurant-assistant
    ```
 
@@ -56,9 +56,9 @@ The frontend is built using React. It provides a user-friendly interface for int
    ```
 
 3. **Set up environment variables**:
-   Create a `.env` file in the `backend` directory and add your OpenAI API key:
+   Create a `.env` file in the `backend` directory and add your OpenAI API key, below will be removed once app is evaluated:
    ```
-   OPENAI_API_KEY=your_api_key_here
+   OPENAI_API_KEY=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
    ```
 
 4. **Install frontend dependencies**:
@@ -82,8 +82,8 @@ The frontend is built using React. It provides a user-friendly interface for int
 ## Usage
 Once both the backend and frontend are running, you can access the application in your web browser. The chatbot will guide you through the menu and help you place orders.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+## Screenshots
+Here are some screenshots demonstrating the application:
 
-## License
-This project is licensed under the MIT License.
+![Chat Interface Demo](./assets/images/demo2.png)
+*The chat interface showing a sample conversation with the restaurant assistant*
